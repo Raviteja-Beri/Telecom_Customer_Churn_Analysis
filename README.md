@@ -1,24 +1,24 @@
 
-# 📊 Customer Churn Prediction - Telecom Industry
+# 📊 Customer Retention Prediction - Telecom Industry
 
-A complete end-to-end machine learning project to analyze and predict customer churn in the telecom sector. This solution leverages **exploratory data analysis**, **feature engineering**, **gradient boosting models**, and a fully interactive **Streamlit dashboard** to deliver real-time churn risk predictions.
+A complete end-to-end machine learning project to analyze and predict customer retention in the telecom sector. This solution leverages **exploratory data analysis**, **feature engineering**, **gradient boosting models**, and a fully interactive **Streamlit dashboard** to deliver real-time retention risk predictions.
 
 ---
 
 ## 🚀 Project Overview
 
-Customer churn refers to when a customer discontinues their service. Identifying the risk of churn helps telecom companies take proactive steps to improve retention. In this project:
+Customer retention refers to when a customer discontinues their service. Identifying the risk of retention helps telecom companies take proactive steps to improve retention. In this project:
 
-- We analyzed real-world customer data to uncover patterns and key indicators of churn.
+- We analyzed real-world customer data to uncover patterns and key indicators of retention.
 - Trained a **Gradient Boosting Classifier** for high accuracy predictions.
-- Built a modern **Streamlit web app** for instant churn prediction based on customer attributes.
+- Built a modern **Streamlit web app** for instant retention prediction based on customer attributes.
 
 ---
 
 ## 🎯 Key Features
 
 - **Data Exploration & Visualization**  
-  Understand customer behavior and churn trends using rich visual analysis.
+  Understand customer behavior and retention trends using rich visual analysis.
 
 - **ML Pipeline with Gradient Boosting**  
   Final model trained with robust tuning for optimal performance.
@@ -74,7 +74,7 @@ Customer churn refers to when a customer discontinues their service. Identifying
 
 ## 🧠 Insights
 
-- Customers with **month-to-month contracts**, **fiber optic service**, and **high monthly charges** showed higher churn rates.
+- Customers with **month-to-month contracts**, **fiber optic service**, and **high monthly charges** showed higher retention rates.
 - Our model achieves strong predictive performance with explainable features.
 
 ---
